@@ -9,3 +9,4 @@ I will add descriptions here for each file as I add it.
 CustomPost.php - Creates custom posts from a XML file and inserts associated image files to that post.
 VoucherCodes.php - Reads in a XML file from the Buyat network and displays the latest voucher codes.
 VoucherCodesCSV.php - Reads in a CSV file from Affiliate Window and displays the latest voucher codes.
+MediFusion.php - Pass it a ASIN and will display details about it and a price comparison table.
